@@ -1,0 +1,70 @@
+The Python Project Challenge - Project Outline
+In the Python Project Challenge, you will bring your ideas to life by designing and developing your own Python program! Whether it's solving a real-world problem or automating a task, this is your chance to turn your creativity into code and apply everything you've learned in an innovative way. This Project simulates the process of pitching your app idea to attract users and gain investment in the real world. 
+
+As part of the Final Project you must implement various programming concepts you have learned throughout COMP9001. At this stage you should have learnt enough programming concepts to be able to develop a program which users can find valuable. 
+
+This is an individual assessment that will contribute worth 10% of your final marks and is due by 24th May, 11:59pm. 
+
+Some Program Ideas you might consider extending include:
+Language Flashcard Study 
+
+Escape Room Puzzle Game  
+
+Virtual Pet
+
+Fashion Assistant Program
+
+Please note, the ideas above should serve only as inspiration for the appropriate challenge level. If you choose one of these ideas then you may lose marks in the 'originality' category. It is always best to discuss this with your tutor.
+
+At the end of the assignment, you'll showcase your project on a dedicated Padlet board for your tutorial. This will allow students to share their work, explore what other classmates have built, and get inspired by the diverse and innovative projects. You will also give a short 3 minute presentation within your tutorial group.
+
+You are allowed to use additional libraries and programs to support your Final Project as long as the main program is written in Python. Previous Projects have made use of additional components using PyGame, Unity, Javascript - these are completely optional and should only be used if it is an essential part of your program.
+
+
+Submission Requirements
+Python Code Files - All python codes files used in your project needs to be submitted in the Code Submission slide.
+
+Padlet Post - You need to include the following in your Padlet Post and upload it to your Tutor's Padlet Board (links provided in week 10):
+
+Title of your project (should relate to what you've made!)
+
+Representative image of your program (be creative – make it flashy!)
+
+Short description of your program including target audience (~100 words)
+
+We will provide an in-demo lecture of Padlet in the Week 6 lecture. We also covered some details about the project. 
+
+
+Key Requirements
+The program must not be an extension of previous assessments and must be a completely new program.
+
+You are strongly encouraged to get your project idea approved by your tutor before starting development to ensure you have selected a project that is appropriate.
+
+You must submit your code in the Code Submission slide on Ed and have your Padlet board posted to your assigned tutorial class (your tutor will get you to do this in later weeks).
+
+You must present your program in-class during your tutorial session in Week 13. The presentation should strictly be 3 minutes in duration to allow for all students to present during the tutorial session.
+
+All members of your tutorial class will vote on their favourite programs but this will not influence your overall mark. The highest voted program will receive a Certificate and will be deemed the winning program of that tutorial. 
+
+Your program should be well-documented, easy to use, and demonstrate clear problem-solving skills. Your tutor should be able to run your program on their laptop without the need for any special libraries or additional software (you are free to provide additional libraries as long as it is packaged in your program folder).
+
+You should expect to spend 6-8 hours to complete this project. Please plan your time accordingly and choose a program that allows you to apply the concepts effectively.
+
+You must implement at least 2 advanced topics from the semester in order to receive full marks for that component (see Ed Lessons for list of advanced topics).
+
+Marking Guideline
+Your Final Project will be scored out of 10 using the following marking rubric:
+
+(A) Functionality (2 marks)
+
+(B) Structure & Documentation (2 marks)
+
+(C) Advanced Concepts (2 marks)
+
+(D) Creativity & Originality (2 marks)
+
+(E) Padlet Post & Presentation (2 marks)
+
+
+Final Message
+We encourage students to start on the Final Project as early as possible to allow for enough time for a tutor to review and approve each individual idea. You should aim for your idea to be approved by a tutor by the end of Week 8. We are looking forward to seeing what creative ideas you will come up with using the concepts taught in COMP9001. 

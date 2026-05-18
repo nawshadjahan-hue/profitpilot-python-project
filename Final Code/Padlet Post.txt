@@ -1,0 +1,16 @@
+ProfitPilot — Can Your Campus Side Hustle Actually Survive?
+
+A lot of student side hustles start with excitement — bubble tea, hoodies, snack boxes, sticker packs — and then reality hits: popular does not always mean profitable.
+
+I wanted to explore what separates a campus hustle that actually makes money from one that only looks good on paper, so I created ProfitPilot.
+
+You enter your product’s cost, selling price, and expected demand. ProfitPilot turns those numbers into a clear picture: how much profit you might make, how strong your margin is, and whether each product is High Potential, a Good Performer, or At Risk.
+
+You can also test “what-if” decisions before making them, like changing a price or adjusting expected sales. The app includes a break-even planner and can export a full business report.
+
+It won’t run your hustle for you — but it can help you decide which products are worth your time, and which ones just look like a good idea.
+
+GitHub:
+https://github.com/nawshadjahan-hue/profitpilot-python-project
+
+-Syeda
