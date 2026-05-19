@@ -93,18 +93,18 @@ def export_business_reports(products: list, output_dir: str) -> tuple[str, str]:
         <h1>ProfitPilot Business Report</h1>
         <p class="subtitle">Campus side-hustle performance summary</p>
         <section class="summary">
-            <div class="card"><div class="card-icon">??</div><div class="label">Products</div><div class="value">{len(products)}</div></div>
-            <div class="card"><div class="card-icon">??</div><div class="label">Revenue</div><div class="value">${total_revenue:.2f}</div></div>
-            <div class="card"><div class="card-icon">??</div><div class="label">Profit</div><div class="value">${total_profit:.2f}</div></div>
-            <div class="card"><div class="card-icon">??</div><div class="label">Top Product</div><div class="value">{html.escape(str(best_product["name"]))}</div></div>
+            <div class="card"><div class="card-icon">#</div><div class="label">Products</div><div class="value">{len(products)}</div></div>
+            <div class="card"><div class="card-icon">$</div><div class="label">Revenue</div><div class="value">${total_revenue:.2f}</div></div>
+            <div class="card"><div class="card-icon">+</div><div class="label">Profit</div><div class="value">${total_profit:.2f}</div></div>
+            <div class="card"><div class="card-icon">TOP</div><div class="label">Top Product</div><div class="value">{html.escape(str(best_product["name"]))}</div></div>
         </section>
         <h2>ProfitPilot Workflow</h2>
         <section class="workflow">
-            <div class="workflow-step"><span>??</span>Product Snapshot</div>
-            <div class="workflow-step"><span>??</span>Business Summary</div>
-            <div class="workflow-step"><span>??</span>Test Scenario</div>
-            <div class="workflow-step"><span>??</span>Break-Even Plan</div>
-            <div class="workflow-step"><span>??</span>Export Business Report</div>
+            <div class="workflow-step"><span>1</span>Product Snapshot</div>
+            <div class="workflow-step"><span>2</span>Business Summary</div>
+            <div class="workflow-step"><span>3</span>Test Scenario</div>
+            <div class="workflow-step"><span>4</span>Break-Even Plan</div>
+            <div class="workflow-step"><span>5</span>Export Business Report</div>
         </section>
         <h2>Product Details</h2>
         <table>
