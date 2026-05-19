@@ -26,6 +26,10 @@ products.json       - saved product data file, can be empty
 How to use:
 1. Run profitpilot.py.
 2. Click Load Campus Demo to load sample products.
-3. Select a product and click Product Snapshot.
-4. Use Test Scenario or Break-Even Plan to explore business decisions.
-5. Click Export Business Report to create report files.
+3. Select Iced Matcha Latte and click Product Snapshot.
+4. Click Business Summary to view the overall business performance.
+5. Select Welcome Week Sticker Pack and click Test Scenario.
+   Example scenario: New Selling Price = 4.00, New Quantity = 80.
+6. Click Break-Even Plan.
+   Example fixed cost: 500.
+7. Click Export Business Report to create report files.

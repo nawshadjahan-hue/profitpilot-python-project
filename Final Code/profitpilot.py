@@ -13,7 +13,6 @@ from tkinter import ttk, messagebox
 from demo_data import get_campus_demo_products
 from logic import (
     business_break_even,
-    break_even_units,
     calculate_metrics,
     calculate_score_breakdown,
     get_business_action,
@@ -44,22 +43,6 @@ dashboard_value_labels = {}
 product_form_title = None
 submit_product_button = None
 edit_mode_index = None
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 def save_products():

@@ -12,7 +12,7 @@ def calculate_score(product: dict, products: list) -> int:
     """
     Calculate a product score out of 100.
 
-    Suggested weighting:
+    ProfitPilot weighting:
     - Profit score: 40
     - Margin score: 40
     - Quantity score: 20
