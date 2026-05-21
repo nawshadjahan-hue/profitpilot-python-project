@@ -1,4 +1,13 @@
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+
+# Generated ProfitPilot reports
 profitpilot_report.txt
 profitpilot_report.html
+Final Code/profitpilot_report.txt
+Final Code/profitpilot_report.html
+
+# Local virtual environments
+.venv/
+venv/
