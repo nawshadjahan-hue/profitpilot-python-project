@@ -11,3 +11,10 @@ Final Code/profitpilot_report.html
 # Local virtual environments
 .venv/
 venv/
+
+# Local presentation and supporting files not needed in the public GitHub repo
+Related Files/
+Padlet Post.txt
+profitpilot_cover_*.png
+profitpilot_presentation_script*.md
+profitpilot_q_and_a.md
