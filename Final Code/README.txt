@@ -1,5 +1,27 @@
 ProfitPilot - COMP9001 Final Project
 
+Project overview:
+ProfitPilot is a Tkinter desktop app for students who want to test whether a
+campus side hustle can make profit. It helps users compare products, understand
+profit and margin, test price or demand changes, estimate break-even sales, and
+export a business report.
+
+Main features:
+- Add, edit, delete, save, and load products
+- Load sample campus demo products
+- View product revenue, cost, profit, margin, score, and decision
+- View an overall Business Summary
+- Test what-if scenarios before applying changes
+- Estimate break-even units for the whole product mix
+- Export plain text and HTML business reports
+
+Advanced topics used:
+- File I/O with JSON save/load and report export
+- Exception handling for invalid inputs and file errors
+- Recursion for ranking products in the business summary
+- Unit testing with unittest
+- GUI programming with Tkinter
+
 Starting point:
 Run profitpilot.py
 
