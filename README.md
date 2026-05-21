@@ -1,21 +1,27 @@
 # ProfitPilot: Campus Business Simulator
 
-![ProfitPilot cover](profitpilot_cover_group_students_updated.png)
+ProfitPilot is a Tkinter desktop app for students who want to test whether a
+campus side hustle can make profit. It helps users compare products, understand
+profit and margin, test price or demand changes, estimate break-even sales, and
+export a business report.
 
-ProfitPilot is a Python desktop app that helps students test whether a small
-campus side hustle can actually make money. Users can compare products, check
-profit and margin, test what-if scenarios, estimate break-even sales, and export
-a business report.
+## Main Features
 
-## What It Does
-
-- Calculates revenue, total cost, profit, and profit margin
-- Gives each product a ProfitPilot score out of 100
-- Labels products as High Potential, Good Performer, Needs Improvement, or At Risk
-- Tests price and demand changes before applying them
-- Estimates break-even sales for the overall product mix
-- Saves and loads product data
+- Add, edit, delete, save, and load products
+- Load sample campus demo products
+- View product revenue, cost, profit, margin, score, and decision
+- View an overall Business Summary
+- Test what-if scenarios before applying changes
+- Estimate break-even units for the whole product mix
 - Exports plain text and HTML business reports
+
+## Advanced Topics Used
+
+- File I/O with JSON save/load and report export
+- Exception handling for invalid inputs and file errors
+- Recursion for ranking products in the business summary
+- Unit testing with `unittest`
+- GUI programming with Tkinter
 
 ## How To Run
 
@@ -28,6 +34,22 @@ python profitpilot.py
 This is a Tkinter GUI application, so it should be run on a local computer with
 a display. Online terminals such as ED may not open the window because they do
 not provide a graphical display.
+
+No extra installation is needed. The project only uses Python standard library
+modules, including `tkinter`, `json`, `math`, `html`, `webbrowser`, and
+`unittest`.
+
+## How To Use
+
+1. Run `profitpilot.py`.
+2. Click **Load Campus Demo** to load sample products.
+3. Select **Iced Matcha Latte** and click **Product Snapshot**.
+4. Click **Business Summary** to view the overall business performance.
+5. Select **Welcome Week Sticker Pack** and click **Test Scenario**.
+   Example scenario: New Selling Price = `4.00`, New Quantity = `80`.
+6. Click **Break-Even Plan**.
+   Example fixed cost: `500`.
+7. Click **Export Business Report** to create report files.
 
 ## How To Test
 
