@@ -1,5 +1,7 @@
 # ProfitPilot: Campus Business Simulator
 
+![ProfitPilot cover](profitpilot_cover_group_students_updated.png)
+
 ProfitPilot is a Tkinter desktop app for students who want to test whether a
 campus side hustle can make profit. It helps users compare products, understand
 profit and margin, test price or demand changes, estimate break-even sales, and
