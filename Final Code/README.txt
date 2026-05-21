@@ -6,6 +6,10 @@ Run profitpilot.py
 Command:
 python profitpilot.py
 
+Note:
+This is a Tkinter GUI application. It should be run on a local computer with a display.
+The ED terminal may not open the window because it has no graphical display.
+
 Optional test command:
 python -m unittest test_profitpilot.py
 
